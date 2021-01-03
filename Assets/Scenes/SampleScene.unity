@@ -166,7 +166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 245385584309d464bbcc6ce05a63658f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  g_dbName: 002.db
+  g_dbName: 010.db
   g_tbName: defaultTable
-  g_id: 0
-  g_val: 5
+  g_id: 5
+  g_val: abc
